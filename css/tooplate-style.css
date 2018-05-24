@@ -664,9 +664,12 @@ footer ul li a:hover {
 	color: #275cab;
 	transition: all 0.5s;
 }
-
-
-
+.center {
+    margin-left: 30%;
+	width: 50%;
+    border: 3px;
+    padding: 10px;
+}
 
 /* LIGHT BOX */
 
